@@ -1,7 +1,7 @@
 # cloud
-aws practice
+aws practice\
 Cloud\
 cLoud\
 clOud\
 cloUd\
-clouD\
+clouD
