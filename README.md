@@ -1,6 +1,6 @@
 # cloud
 aws practice
-Cloud
+Cloud <\n>
 cLoud
 clOud
 cloUd
