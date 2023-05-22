@@ -1,3 +1,7 @@
 # cloud
 aws practice
-hi
+Cloud
+cLoud
+clOud
+cloUd
+clouD
