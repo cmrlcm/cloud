@@ -1,6 +1,7 @@
 # cloud
 aws practice
-Cloud <\n>
+Cloud 
+printf(\n)
 cLoud
 clOud
 cloUd
